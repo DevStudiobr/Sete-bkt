@@ -1,9 +1,10 @@
 {
-  "usuarios": [
+  "receitas": [
     {
       "id": 1,
-      "nome": "João",
-      "pontos": 10
+      "titulo": "sonho",
+      "ingredientes": "blabla"'
+      "preparo": "blablabla"
     },
     {
       "id": 2,
